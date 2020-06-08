@@ -18,6 +18,7 @@
 #define runtime_src_xclbin_binary_h_
 
 #include <string>
+#include <stdexcept>
 #include <vector>
 #include <memory>
 

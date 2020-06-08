@@ -23,6 +23,7 @@
 
 #include <memory>
 #include <string>
+#include <stdexcept>
 #include <cstring>
 
 #ifdef __GNUC__
